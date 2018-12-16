@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\workspace\ndkdemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\workspace\ndkdemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_554364adb9785669f937779792bf2f6ae2f46b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\ndkdemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\workspace\ndkdemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_22e342b42afb61e587d96d72649a54b0e968b93d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\ndkdemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\workspace\ndkdemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_f2e527cf8c72af4e6c0416c86972fe2d05575b39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\ndkdemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\workspace\ndkdemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_b07d89b109b6a093dda264f3832bae83d0976c22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\ndkdemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\workspace\ndkdemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_d7007da5ef84486fdfb66403b356fa37d1146ee5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\ndkdemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\workspace\ndkdemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_c3a2f2e80cf485523566e1e1c651bfc7da7515ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SoftWare\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\workspace\ndkdemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_d725583a972817285bce63337e8db1dacce353f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\ndkdemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\workspace\ndkdemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_3a5c73e5c1f3c67cf1379c609b402d6add90dee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\ndkdemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\workspace\ndkdemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_4546058d9b19b484417ae6389e985f7028ac41d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\ndkdemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\workspace\ndkdemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_d2f1c7d3696008dc022da806f172ba9b8008a9ee.jar" />
+    </item>
+
+</items>
